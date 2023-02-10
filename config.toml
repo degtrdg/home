@@ -1,4 +1,4 @@
-baseURL = "http://dangeorge.me"
+baseURL = "dangeorge.me"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false

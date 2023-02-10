@@ -43,4 +43,4 @@ Trained LSTM based RNN to have model efficiently enumerate chemical space. Used 
    allowfullscreen="allowfullscreen"
 ></iframe>
 Links:
-- [Demo](http://dangeorge.me/chem_autocomplete/) 
+- [Demo](https://degtrdg.github.io/chem_autocomplete/) 
