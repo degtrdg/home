@@ -7,5 +7,6 @@ My name is Daniel. I'm a computer science major minoring in molecular biology. T
 
 - [[portfolio/Portfolio]]
 - [[tech-blog/Technical Blog]]
+- [[blog/Blog]]
 - [[layers/Layers]]
 
