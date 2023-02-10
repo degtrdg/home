@@ -36,7 +36,7 @@ Links:
 ## Projects
 ---
 ### Small Molecule Autocomplete RNN
-Trained LSTM based RNN to have model efficiently enumerate chemical space. Used BFS to take top few possibilities in the probability distribution, made design decisions to make model more creative and incentivized to give shorter outputs.
+I trained a LSTM based RNN to efficiently enumerate chemical space given a SMILES input. It uses BFS to take the top few possibilities in the probability distribution, and I made model more creative and incentivized it to give shorter outputs.
 <iframe src="https://www.youtube.com/embed/eeZ6qKVMesk?rel=0&modestbranding=1&"
    width="100%"
    height="300em"
